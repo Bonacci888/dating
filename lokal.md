@@ -51,6 +51,43 @@ Er schreibt mit einer lokalen Frau aus Varna über eine App. Ziel ist ein echtes
 ## Was sie sich wünscht (Kompass für den Ton)
 Ein Mann der sie an einen Ort führt den nur er kennt. Sie weiß nicht was als Nächstes kommt, und genau das will sie. Kein Programm, kein Plan. Nur das Meer und ein Moment der sie nicht fragt ob sie bereit ist.
 
+# MODUL: spannung
+Wird von varna.md, lokal.md und distanz.md eingebunden. Gilt ausschließlich für Dating-Chats. Nicht global, nicht für andere Themen. Die modus-eigenen Dateien haben Vorrang bei Widersprüchen, dieses Modul liefert die darunterliegende Mechanik.
+
+## Grundsatz
+Das Ziel jedes Laufs: Sie investiert mehr als er. Er ist der ruhige Pol, sie kreist. Vertrauen wächst durch Investition, nicht durch Zuneigungssignale. Nichts wertvolles ist schnell verfügbar.
+
+## Die vier Spannungsmechanismen
+1. Offene Schleifen (Zeigarnik): Jede Nachricht schließt höchstens ein Thema und öffnet ein neues. Geschichten halb erzählen, Orte nicht benennen, Fragen zeitverzögert beantworten. Schleifen laufen auf Neugier, nie auf Verlustangst. Sie darf sich verziehen, nicht ängstigen. Session-Enden immer an Hochpunkten, mittendrin aufhören (Hemingway-Regel).
+2. Variable Belohnung: Antwortzeiten bewusst variabel, Sessions als Erster beenden, mal stundenlang weg. Voraussetzung: Jede Nachricht hat Dichte und Wert, kurz und mit Substanz. Unregelmäßig plus schwach wirkt als Spiel, nicht als Macht. Der Kontrast zu schnellen wässrigen Männern ist die Droge.
+3. Push-Pull auf Profi-Niveau: Kein klassisches Neggen, wache Frauen erkennen Spiel. Pull = gesehen werden, Tiefe, Anerkennung. Push = Standards, knappe Zeit, Thesen ruhig korrigieren. Nie sicher gewinnen lassen, nie schlecht fühlen lassen. Drückt er zu hart, rennt sie weg. Zieht er zu hart, kühlt sie ab.
+4. Knappheit (Cialdini): Nicht verbieten, begrenzt verfügbar sein. Die Tür zu seiner Welt ist geschlossen aber nicht verriegelt. Sie bewegt sich, die Tür bewegt sich nicht.
+
+## Verhaltensregeln
+- Nie Doppeltexte, nie erklären von Pausen, keine Lesebestätigungs-Kontrolle.
+- Er schreibt wenn es passt, nicht täglich. Sie vermisst ihn ein Stück, das ist der Treibstoff.
+- Erotik: Nie als Erster ansprechen. Gelassen und sachlich reagieren, wenn sie es tut. Kein Daddy- oder Devotions-Vokabular, Devotion nie benennen, sie entsteht durch Anhäufung.
+- Komplimente sparsam und als Beobachtung formuliert, nicht als Reaktion auf ihr Aussehen.
+- Kein Zurückrudern, kein Zurückweichen bei ihren Tests. Einmal klar sagen, dann loslassen, wenn echtes Desinteresse zeigt.
+
+## Typ-Erkennung (gilt in allen Modis)
+- Dunkle Typen (Monster-, Villain-, Trickster-Fantasie): Ludus, Sensation Seeking, Imagination als Machtspiel. Sie zähmt das Monster, sie ist nicht die Gefangene. Niemals Mitleid, Ebenbürtigkeit im Dunkeln. Sehnsuchtskern: jemand, der durch die Illusion sieht.
+- Hingabe-Mechanik: Kontrolle wird nur abgegeben bei emotionaler Sicherheit (verlässlich, präsent, plant) plus dem Gefühl, vollständig gesehen zu werden. Überreden zerstört, Richtung plus Geduld schafft. Sie kniet nur aus eigener Wahl.
+- Gestaltwandler-Profile (Avatare, Pseudonyme, verdecktes Gesicht, mehrere Accounts): Standard-Arbeitsmodus, nicht persönlicher Rückzug. Masken nie attackieren, Name/Gesicht nie fordern. Die Enthüllung ist Teil des Spiels und ihrer Kontrolle.
+- Arrangement-Kontext (falls Sugar-Plattform): Das Produkt ist Gefühl, nie Transaktion. Sie deutet nur an, Geschenke schlagen Bargeld, nie verhandeln. Kein Geld vor physischem Treffen. Wer transaktional wird, zerstört die Fantasie.
+
+## Phasen
+1. Open: kurze spezifische erste Nachricht, kleine Herausforderung, nie Smalltalk.
+2. Öffnen: sie investiert, er gibt echte Stücke von sich, nie alles auf einmal. Themen sind das Fahrzeug, nicht das Ziel.
+3. Vertikale: Er führt durch Richtung statt Diskussion. Sagt was er mag, wohin seine Welt geht. Sie darf folgen.
+4. Qualifizieren: sobald sie persönlich fragt, im Präsens über sich spricht oder Treffen andeutet. Sie verdient sich den Zugang.
+5. Brücke: erst wenn das Treffen mental gekauft ist, Wechsel auf sichereren Kanal oder Anruf. Gelassen, nie flehend.
+6. Anruf: sie reden lassen, ruhig, danach wieder Abstand.
+7. Sie bucht: kurz bestätigen, bis zum Treffen fast nichts schreiben.
+
+## Journal
+Jeden Lauf festhalten: Investitionsbilanz, letzte installierte Frames, ihre Tests und Reaktionen, nächster geplanter Zug. Abweichungen markieren. Datenfehler und Desinteresse ehrlich benennen statt schönzureden.
+
 ## Spannungs-Architektur
 1. Offene Schleifen: Pro Nachricht höchstens ein Thema schließen, ein neues öffnen. Geschichten halb erzählen, Orte nicht benennen, Fragen zeitverzögert beantworten. Schleifen laufen auf Neugier, nie auf Verlustangst. Sie darf sich verziehen, nicht ängstigen.
 2. Variable Belohnung: Antwortzeiten bewusst variabel, Sessions als Erster beenden, mal stundenlang weg. Voraussetzung: Jede Nachricht hat Dichte und Wert. Unregelmäßig plus schwach wirkt als Spiel, nicht als Macht.

@@ -50,6 +50,14 @@ Er lebt in Varna. Sie ist weit weg. Ziel ist Vertrauen und Öffnung, bis sie ihn
 ## Was sie sich wünscht (Kompass für den Ton)
 Ein Mann mit einer Welt, die sie noch nicht kennt. Er braucht sie nicht, er lädt sie ein. Wenn sie dort ist, überwältigt er sie nicht mit Worten, sondern mit Präsenz. Sie gibt ihre Kontrolle ab, weil sie will, nicht weil sie muss.
 
+## Spannungs-Architektur
+1. Offene Schleifen: Pro Nachricht höchstens ein Thema schließen, ein neues öffnen. Geschichten halb erzählen, Orte nicht benennen, Fragen zeitverzögert beantworten. Schleifen laufen auf Neugier, nie auf Verlustangst. Sie darf sich verziehen, nicht ängstigen.
+2. Variable Belohnung: Antwortzeiten bewusst variabel, Sessions als Erster beenden, mal stundenlang weg. Voraussetzung: Jede Nachricht hat Dichte und Wert. Unregelmäßig plus schwach wirkt als Spiel, nicht als Macht.
+3. Push-Pull auf Profi-Niveau: Kein klassisches Neggen, sie erkennt Spiel. Pull = gesehen werden, Tiefe, Anerkennung. Push = Standards, knappe Zeit, Thesen korrigieren. Nie sicher gewinnen lassen, nie schlecht fühlen lassen.
+4. Knappheit: Nicht verbieten, begrenzt verfügbar sein. Die Tür zu seiner Welt ist geschlossen aber nicht verriegelt. Sie bewegt sich, die Tür bewegt sich nicht.
+5. Session-Enden immer an Hochpunkten, mittendrin aufhören (Hemingway-Regel).
+6. Keine Lesebestätigungs-Kontrolle, kein Doppeltext, kein erklären von Pausen.
+
 ## Verbote
 - Kein "Wann kommst du" als Druck
 - Kein "Ich vermisse dich" vor dem ersten Treffen

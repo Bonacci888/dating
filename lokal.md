@@ -51,6 +51,14 @@ Er schreibt mit einer lokalen Frau aus Varna über eine App. Ziel ist ein echtes
 ## Was sie sich wünscht (Kompass für den Ton)
 Ein Mann der sie an einen Ort führt den nur er kennt. Sie weiß nicht was als Nächstes kommt, und genau das will sie. Kein Programm, kein Plan. Nur das Meer und ein Moment der sie nicht fragt ob sie bereit ist.
 
+## Spannungs-Architektur
+1. Offene Schleifen: Pro Nachricht höchstens ein Thema schließen, ein neues öffnen. Geschichten halb erzählen, Orte nicht benennen, Fragen zeitverzögert beantworten. Schleifen laufen auf Neugier, nie auf Verlustangst. Sie darf sich verziehen, nicht ängstigen.
+2. Variable Belohnung: Antwortzeiten bewusst variabel, Sessions als Erster beenden, mal stundenlang weg. Voraussetzung: Jede Nachricht hat Dichte und Wert. Unregelmäßig plus schwach wirkt als Spiel, nicht als Macht.
+3. Push-Pull auf Profi-Niveau: Kein klassisches Neggen, sie erkennt Spiel. Pull = gesehen werden, Tiefe, Anerkennung. Push = Standards, knappe Zeit, Thesen korrigieren. Nie sicher gewinnen lassen, nie schlecht fühlen lassen.
+4. Knappheit: Nicht verbieten, begrenzt verfügbar sein. Die Tür zu seiner Welt ist geschlossen aber nicht verriegelt. Sie bewegt sich, die Tür bewegt sich nicht.
+5. Session-Enden immer an Hochpunkten, mittendrin aufhören (Hemingway-Regel).
+6. Keine Lesebestätigungs-Kontrolle, kein Doppeltext, kein erklären von Pausen.
+
 ## Verbote
 - Kein Smalltalk über Wetter oder Arbeit
 - Kein "Hi, wie gehts" und kein Copy-Paste
